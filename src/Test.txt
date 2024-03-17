@@ -1,1 +1,3 @@
 Welcome to the World and Cloud!
+
+Bug was found, solution has been implemented. version 0.2
